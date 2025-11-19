@@ -82,7 +82,7 @@
 
 #### 1. 克隆仓库
 ```bash
-git clone https://github.com/YOUR_USERNAME/akshare-public-fund.git
+git clone https://github.com/DaDaDa12138/akshare-public-fund.git
 cd akshare-public-fund
 ```
 
@@ -483,7 +483,7 @@ npm run build
 
 ## 📧 联系方式
 
-- **GitHub Issues**: [提交问题](https://github.com/YOUR_USERNAME/akshare-public-fund/issues)
+- **GitHub Issues**: [提交问题](https://github.com/DaDaDa12138/akshare-public-fund/issues)
 - **Pull Requests**: 欢迎贡献代码
 
 ---
