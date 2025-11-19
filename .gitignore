@@ -1,0 +1,60 @@
+# 依赖
+node_modules/
+frontend/node_modules/
+
+# 构建产物
+frontend/dist/
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+backend/logs/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# Docker
+.spec-workflow/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 数据库文件
+*.db
+*.db-shm
+*.db-wal
+backend/db/*.db*
+
+# 测试和临时文件
+test_*.py
+temp/
+tmp/
+.pytest_cache/
+.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
